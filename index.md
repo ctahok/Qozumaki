@@ -1,35 +1,38 @@
-<html style="scroll-behavior: smooth;" class="gr__qozumaki_com">
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:url" content="http://www.qozumaki.com/">
-            <meta name="twitter:title" content="Home - Qozumaki">
-            <meta name="twitter:description" content="Sadəcə qozumaki!">
-            <meta property="og:type" content="website"><meta property="og:url" content="http://www.qozumaki.com/">
-            <meta property="og:title" content="Home - Qozumaki">
-            <meta property="og:description" content="Sadəcə qozumaki!">
-            <meta name="keywords" content="qozumaki, #qozumaki">
-            <meta name="description" content="Sadəcə qozumaki!">
-            <link href="./images/zsite-core.css" rel="stylesheet" type="text/css">
-            <link href="./images/style.css" rel="stylesheet" type="text/css">
-            <link href="./images/sub-style.css" rel="stylesheet" type="text/css">
-            <link rel="stylesheet" type="text/css" href="./images/webfonts">
-            <link href="./images/zs-customcss.css" rel="stylesheet" type="text/css">
-            <link rel="stylesheet" type="text/css" href="./images/forms.css">
+  <title></title>
 </head>
-
-<body style="padding-bottom: 60px; padding-top: 0px;" class="" data-gr-c-s-loaded="true">
-
-<div data-element-id="elm_9ZqnM8cX50d4BKRvJA8qqQ" data-element-type="row" class="zprow zscustom-min-vh-100 zpalign-items-flex-start zpjustify-content-flex-start zpdefault-section zpdefault-section-bg "><style type="text/css"> [data-element-id="elm_9ZqnM8cX50d4BKRvJA8qqQ"].zprow{ background-color:rgba(255,255,255,1); border-style:none; border-radius:1px; box-shadow:0px 0px 0px 0px #000000; } </style><div data-element-id="elm_ChKgHm-zaFMvYDGLAuj6sQ" data-element-type="column" class="zpelem-col zpcol-md-12 zpcol-sm-12 zpalign-self- zpdefault-section zpdefault-section-bg "><style type="text/css"> [data-element-id="elm_ChKgHm-zaFMvYDGLAuj6sQ"].zpelem-col{ border-style:none; border-radius:1px; box-shadow:0px 0px 0px 0px #000000; } </style><div data-element-id="elm_p_rLxNdYJrdDNm17PE1BlQ" data-element-type="spacer" class="zpelement zpelem-spacer "><style> div[data-element-id="elm_p_rLxNdYJrdDNm17PE1BlQ"] div.zpspacer { height:8px; } @media (max-width: 768px) { div[data-element-id="elm_p_rLxNdYJrdDNm17PE1BlQ"] div.zpspacer { height:calc(8px / 3); } } </style><div class="zpspacer " data-height="8"></div>
-</div></div><div data-element-id="elm_K7EIgt1FUlGwJiAtNk-TNw" data-element-type="column" class="zpelem-col zpcol-md-12 zpcol-sm-12 zpalign-self- zpdefault-section zpdefault-section-bg "><style type="text/css"> [data-element-id="elm_K7EIgt1FUlGwJiAtNk-TNw"].zpelem-col{ border-radius:1px; box-shadow:; } </style><div data-element-id="elm_uQ-_H6W2t5xAZUFyn8_P9w" data-element-type="imageheadingtext" class="zpelement zpelem-imageheadingtext "><style> [data-element-id="elm_uQ-_H6W2t5xAZUFyn8_P9w"] .zpimageheadingtext-container[class*='zpimage-overlay-effect-'] figure:hover figcaption , [data-element-id="elm_uQ-_H6W2t5xAZUFyn8_P9w"] .zpimageheadingtext-container[class*='zpimage-overlay-effect-'] figure figcaption { background: ; } [data-element-id="elm_uQ-_H6W2t5xAZUFyn8_P9w"] .zpimageheadingtext-container figure figcaption .zpimage-caption-content { } [data-element-id="elm_uQ-_H6W2t5xAZUFyn8_P9w"] .zpimage-text{ } [data-element-id="elm_uQ-_H6W2t5xAZUFyn8_P9w"] .zpimage-heading{ } [data-element-id="elm_uQ-_H6W2t5xAZUFyn8_P9w"].zpelem-imageheadingtext{ border-radius:1px; box-shadow:; } </style><div data-align="right" class="zpimageheadingtext-container zpimage-with-text-container zpimage-align-right zpimage-size-original hb-lightbox " data-lightbox-options="
-            type:fullscreen,
-            theme:light"><figure class="zpimage-data-ref"><a class="zpimage-anchor" style="cursor:pointer;"><img class="zpimage zpimage-style-none zpimage-space-none " src="./images/walnuts_inshell_1024x1024.jpg" data-src="/files/walnuts_inshell_1024x1024.jpg" width="" size="original" alt="" title="" data-lightbox="true" style="height:588px;width:883px;"></a></figure><div class="zpimage-headingtext-container"><h3 class="zpimage-heading zpimage-text-align-left" data-editor="true"><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><span style="color:rgb(48, 4, 234);font-size:48px;">#qozumaki</span></blockquote></blockquote></h3><div class="zpimage-text zpimage-text-align-left " data-editor="true"><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><div><span style="color:rgb(1, 58, 81);">Millət necə tarac olur olsun, nə işim var?!</span></div></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Düşmənlərə möhtac olur olsun, nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Qoy mən tox olum özgələri ilə nədir karim,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Dünyavü cahan ac olur olsun nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Səs salma, yatanlar ayılar, qoy hələ yatsın,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Yatmışları razı deyiləm kimsə oyatsın,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Tək-tək ayılan varsa da həq dadıma çatsın,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Mən salim olum cümlə cahan batsa da batsın;</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Millət necə tarac olur olsun, nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Düşmənlərə möhtac olur olsun, nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Salma yadıma söhbəti tarixi cahanı,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Əyyami-sələfdən demə bir sözdə filani,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Hal isə gətir meyl eləyim dolmanı, nani,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Müstəqbəli görmək nə gərək, ömürdü fani;</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><br></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><div><span style="color:rgb(1, 58, 81);">Millət necə tarac olur olsun, nə işim var?!</span></div></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Düşmənlərə möhtac olur olsun, nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Övladi vətən qoy hələ avarə dolansın,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Çirkabi-səfalətlə əli, başı bulansın,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Dul övrət isə sailə olsun, oda yansın,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Ancaq mənim avazeyi-şənim ucalsın;</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Millət necə tarac olur olsun, nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Düşmənlərə möhtac olur olsun, nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Hər millət edir səfheyi-dünyada tərəqqi,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Eylər hərə bir mənzili-məvada tərəqqi,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Yorğan-döşəyimə düşə gər yadə tərəqqi,</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Bizdə edərik aləmi-röyada tərəqqi;</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);"><span>Millət necə tarac olur olsun, nə işim var?!</span></span></p></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px;"><p><span style="color:rgb(1, 58, 81);">Düşmənlərə möhtac olur olsun, nə işim var?!</span><br><br><br></p></blockquote></blockquote></div>
-</div></div></div></div></div>
-
-</div></div></div></div></div></div></div></div></div><div style="clear:both;"></div>
-<div id="zsada-2703237279778"><div style="background:#0E2431;height:60px;color: #a4becc;line-height: 60px;text-align: center;box-shadow: 0 1px 0px 0px black inset;position:fixed;width:100%;bottom:0;z-index:1000000;"> <a href="mailto:qoz@qozumaki.com?Subject=Hello%20from%20Qozumaki" target="_top">Send Mail</a></div></div>
-
-
+<body>
+  <a><img src="./images/walnuts_inshell_1024x1024.jpg" width="" alt="walnuts_inshell_1024x1024"></a> #qozumaki Mill?t nec? tarac olur olsun, n? isim var?!
+  <p>Düsm?nl?r? möhtac olur olsun, n? isim var?!</p>
+  <p>Qoy m?n tox olum özg?l?ri il? n?dir karim,</p>
+  <p>Dünyavü cahan ac olur olsun n? isim var?!</p>
+  <p>S?s salma, yatanlar ayilar, qoy h?l? yatsin,</p>
+  <p>Yatmislari razi deyil?m kims? oyatsin,</p>
+  <p>T?k-t?k ayilan varsa da h?q dadima çatsin,</p>
+  <p>M?n salim olum cüml? cahan batsa da batsin;</p>
+  <p>Mill?t nec? tarac olur olsun, n? isim var?!</p>
+  <p>Düsm?nl?r? möhtac olur olsun, n? isim var?!</p>
+  <p>Salma yadima söhb?ti tarixi cahani,</p>
+  <p>?yyami-s?l?fd?n dem? bir sözd? filani,</p>
+  <p>Hal is? g?tir meyl el?yim dolmani, nani,</p>
+  <p>Müst?qb?li görm?k n? g?r?k, ömürdü fani;</p>
+  <p><br></p>Mill?t nec? tarac olur olsun, n? isim var?!
+  <p>Düsm?nl?r? möhtac olur olsun, n? isim var?!</p>
+  <p>Övladi v?t?n qoy h?l? avar? dolansin,</p>
+  <p>Çirkabi-s?fal?tl? ?li, basi bulansin,</p>
+  <p>Dul övr?t is? sail? olsun, oda yansin,</p>
+  <p>Ancaq m?nim avazeyi-s?nim ucalsin;</p>
+  <p>Mill?t nec? tarac olur olsun, n? isim var?!</p>
+  <p>Düsm?nl?r? möhtac olur olsun, n? isim var?!</p>
+  <p>H?r mill?t edir s?fheyi-dünyada t?r?qqi,</p>
+  <p>Eyl?r h?r? bir m?nzili-m?vada t?r?qqi,</p>
+  <p>Yorgan-dös?yim? düs? g?r yad? t?r?qqi,</p>
+  <p>Bizd? ed?rik al?mi-röyada t?r?qqi;</p>
+  <p>Mill?t nec? tarac olur olsun, n? isim var?!</p>
+  <p>Düsm?nl?r? möhtac olur olsun, n? isim var?!<br>
+  <br>
+  <br></p><a href="mailto:qoz@qozumaki.com?Subject=Hello%20from%20Qozumaki">Send Mail</a>
 </body>
 </html>
