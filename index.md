@@ -1,9 +1,22 @@
-
-<!DOCTYPE html>
-
 <html style="scroll-behavior: smooth;" class="gr__qozumaki_com">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Home - Qozumaki</title><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"><meta name="generator" content="Zoho Sites 2.0, http://zoho.com/sites"><link rel="icon" href="http://www.qozumaki.com/favicon.png"><link rel="canonical" href="http://www.qozumaki.com/"><meta name="twitter:card" content="summary"><meta name="twitter:url" content="http://www.qozumaki.com/"><meta name="twitter:title" content="Home - Qozumaki"><meta name="twitter:description" content="Sadəcə qozumaki!"><meta property="og:type" content="website"><meta property="og:url" content="http://www.qozumaki.com/"><meta property="og:title" content="Home - Qozumaki"><meta property="og:description" content="Sadəcə qozumaki!"><meta name="keywords" content="qozumaki, #qozumaki"><meta name="description" content="Sadəcə qozumaki!"><link href="./images/zsite-core.css" rel="stylesheet" type="text/css"><link href="./images/style.css" rel="stylesheet" type="text/css"><link href="./images/sub-style.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="./images/webfonts"><link href="./images/zs-customcss.css" rel="stylesheet" type="text/css"><style piggy-ext="" data-styled-version="4.2.0"></style><style piggy-ext="" data-styled-version="4.2.0"></style><link rel="stylesheet" type="text/css" href="./images/forms.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.qozumaki.com/">
+            <meta name="twitter:title" content="Home - Qozumaki">
+            <meta name="twitter:description" content="Sadəcə qozumaki!">
+            <meta property="og:type" content="website"><meta property="og:url" content="http://www.qozumaki.com/">
+            <meta property="og:title" content="Home - Qozumaki">
+            <meta property="og:description" content="Sadəcə qozumaki!">
+            <meta name="keywords" content="qozumaki, #qozumaki">
+            <meta name="description" content="Sadəcə qozumaki!">
+            <link href="./images/zsite-core.css" rel="stylesheet" type="text/css">
+            <link href="./images/style.css" rel="stylesheet" type="text/css">
+            <link href="./images/sub-style.css" rel="stylesheet" type="text/css">
+            <link rel="stylesheet" type="text/css" href="./images/webfonts">
+            <link href="./images/zs-customcss.css" rel="stylesheet" type="text/css">
+            <link rel="stylesheet" type="text/css" href="./images/forms.css">
 </head>
 
 <body style="padding-bottom: 60px; padding-top: 0px;" class="" data-gr-c-s-loaded="true">
