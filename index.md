@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
+  <title>Qozumaki.com</title>
 </head>
 <body>
   <a><img src="./images/walnuts_inshell_1024x1024.jpg" width="" alt="walnuts_inshell_1024x1024"></a> #qozumaki Mill?t nec? tarac olur olsun, n? isim var?!
