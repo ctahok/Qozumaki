@@ -1,30 +1,62 @@
 # Welcome to Qozumaki
 
-You can use the [editor on GitHub](https://github.com/ctahok/Qozumaki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](https://raw.githubusercontent.com/ctahok/Qozumaki/master/images/walnuts_inshell_1024x1024.jpg)
 ```
+Millət necə tarac olur olsun, nə işim var?!
+Düşmənlərə möhtac olur olsun, nə işim var?!
+
+Qoy mən tox olum özgələri ilə nədir karim,
+
+Dünyavü cahan ac olur olsun nə işim var?!
+
+Səs salma, yatanlar ayılar, qoy hələ yatsın,
+
+Yatmışları razı deyiləm kimsə oyatsın,
+
+Tək-tək ayılan varsa da həq dadıma çatsın,
+
+Mən salim olum cümlə cahan batsa da batsın;
+
+Millət necə tarac olur olsun, nə işim var?!
+
+Düşmənlərə möhtac olur olsun, nə işim var?!
+
+Salma yadıma söhbəti tarixi cahanı,
+
+Əyyami-sələfdən demə bir sözdə filani,
+
+Hal isə gətir meyl eləyim dolmanı, nani,
+
+Müstəqbəli görmək nə gərək, ömürdü fani;
+
+
+
+Millət necə tarac olur olsun, nə işim var?!
+Düşmənlərə möhtac olur olsun, nə işim var?!
+
+Övladi vətən qoy hələ avarə dolansın,
+
+Çirkabi-səfalətlə əli, başı bulansın,
+
+Dul övrət isə sailə olsun, oda yansın,
+
+Ancaq mənim avazeyi-şənim ucalsın;
+
+Millət necə tarac olur olsun, nə işim var?!
+
+Düşmənlərə möhtac olur olsun, nə işim var?!
+
+Hər millət edir səfheyi-dünyada tərəqqi,
+
+Eylər hərə bir mənzili-məvada tərəqqi,
+
+Yorğan-döşəyimə düşə gər yadə tərəqqi,
+
+Bizdə edərik aləmi-röyada tərəqqi;
+
+Millət necə tarac olur olsun, nə işim var?!
+
+Düşmənlərə möhtac olur olsun, nə işim var?!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
